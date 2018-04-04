@@ -20,3 +20,4 @@ if (day_of_the_week == 2):
 if (day_of_the_week == 1):
 	print('monday')
 
+
